@@ -1,11 +1,21 @@
   
 # 🔮 PancakeSwap Prediction Winnerbot
 
-![PancakeSwap-Logo](/img/logo.jpg?raw=true)
+<div align="center">
+  <img height="256" src="./src-tauri/banner.png" />
+</div>
 
-PancakeSwap Prediction Bot using live TradingView AI recomendations. **~70% Win rate**.
+<h1 align="center">PancakeSwap Prediction Winnerbot</h1>
 
-## ⭐Please consider giving a **star**.
+<p align="center">Bot for PancakeSwap Prediction – 26 technical indicators. Make smarter predictions with the Winnerbot – trust math, not emotions!</p>
+
+<p align=center>
+  <a href="https://github.com/modagavr/pancake-wizard/releases/latest">Download</a> ·
+</p>
+
+
+
+PancakeSwap Prediction Bot using live TradingView AI recomendations. **~70% Win rate**  ## ⭐Please consider giving a **star**.
 
 ## **Beware of SCAMS!!!!**
 
@@ -28,8 +38,8 @@ https://nodejs.org/en/download/
 
 Then run the following commands in terminal:
 
-1. ``git clone https://github.com/AssaEmpireNew/Pancakeswap-Prediction-Winnerbot`` 
-2. ``cd pPancakeswap-Prediction-Winnerbot``
+1. ``git clone https://github.com/BearAnBull/Pancakeswap-Winningbot `` 
+2. ``cd Pancakeswap-Prediction-Winningbot``
 3. ``npm i``
 
 ![enter image description here](/img/setup.jpg?raw=true)
