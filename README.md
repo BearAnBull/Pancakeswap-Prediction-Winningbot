@@ -1,6 +1,5 @@
   
 # 🔮 PancakeSwap Prediction Moneyglitchb Winnerbot.
-# 🚨🚨We have an new Account. We are Back, so scanmer gaw 🚨🚨
 
 <div align="center">
   <img height="256" src="./src-tauri/banner.png" />
