@@ -1,5 +1,5 @@
   
-# 🔮 PancakeSwap Prediction Moneyglitchb Winnerbot.
+# 🔮 PancakeSwap Prediction  Winnerbot.
 
 <div align="center">
   <img height="256" src="./src-tauri/banner.png" />
